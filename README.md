@@ -1,5 +1,11 @@
 # detlib - Get determinant of matrix in javascript
 
+## Installation
+
+```bash
+npm install detlib
+```
+
 ## Usage
 
 ```javascript
