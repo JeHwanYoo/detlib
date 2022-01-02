@@ -1,0 +1,30 @@
+{
+  "name": "detlib",
+  "version": "1.0.0",
+  "description": "get determinant of matrix in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test-a": "node test/accuracy.test.js",
+    "test-t": "node test/efficiency.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeHwanYoo/detlib.git"
+  },
+  "keywords": [
+    "Linear Algebra",
+    "Matrix",
+    "Determinant"
+  ],
+  "author": "JeHwan Yoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeHwanYoo/detlib/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/JeHwanYoo/detlib#readme",
+  "devDependencies": {
+    "lodash": "^4.17.21",
+    "robust-determinant": "^1.1.0"
+  }
+}
